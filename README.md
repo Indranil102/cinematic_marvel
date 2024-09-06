@@ -6,7 +6,8 @@ Welcome to the Cinematic Marvel Universe UI Design repository! This project show
 
 Include a screenshot or preview image here to give viewers a quick look at the UI design.
 
-![Preview](preview.png)
+![Preview](![Screenshot 2024-09-06 115234](https://github.com/user-attachments/assets/8009cff1-36f3-4f63-855a-dbb6d583c418)
+)
 
 ## Pages
 
@@ -29,10 +30,4 @@ Include a screenshot or preview image here to give viewers a quick look at the U
 - Figma account for viewing and editing the design files.
 - Any necessary plugins or fonts used in the design (if applicable).
 
-### Installation
 
-Provide steps or commands if there’s anything to install or configure.
-
-```bash
-# Example installation command
-npm install
