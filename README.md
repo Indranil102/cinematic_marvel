@@ -1,4 +1,4 @@
-![Screenshot 2024-09-06 115258](https://github.com/user-attachments/assets/106f3155-8934-4411-9280-d4f60f3056c2)# Cinematic Marvel Universe UI Design
+# Cinematic Marvel Universe UI Design
 
 Welcome to the Cinematic Marvel Universe UI Design repository! This project showcases a UI design created in Figma, featuring three pages that highlight various facilities provided to users within the Marvel Cinematic Universe theme.
 
