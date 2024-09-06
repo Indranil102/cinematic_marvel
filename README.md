@@ -6,7 +6,7 @@ Welcome to the Cinematic Marvel Universe UI Design repository! This project show
 
 Include a screenshot or preview image here to give viewers a quick look at the UI design.
 
-(![Screenshot 2024-09-06 115234](https://github.com/user-attachments/assets/8009cff1-36f3-4f63-855a-dbb6d583c418)
+![Screenshot 2024-09-06 115234](https://github.com/user-attachments/assets/8009cff1-36f3-4f63-855a-dbb6d583c418)
 ![Screenshot 2024-09-06 115258](https://github.com/user-attachments/assets/f362dc63-2760-454b-a5b6-568c4d118d51)
 ![Screenshot 2024-09-06 115320](https://github.com/user-attachments/assets/b1b8aa96-76a8-4275-9a54-d70b6453595f)
 
